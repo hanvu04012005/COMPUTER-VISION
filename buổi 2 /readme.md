@@ -1,5 +1,11 @@
-# Basic Image Manipulation (PIL & OpenCV)
-
+#  Thị Giác Máy Tính  
+## Basic Image Manipulation (PIL & OpenCV)
+---
+**Sinh viên thực hiện:** Nguyễn Hạn Vũ  
+**MSSV:** 2374802010571  
+**Môn học:** Thị giác máy tính  
+**Giảng viên:** Thầy Đỗ Hữu Quân  
+---
 ## Giới thiệu
 Trong bài này, em thực hiện các thao tác xử lý ảnh cơ bản bằng Python thông qua hai thư viện là **PIL (Pillow)** và **OpenCV**.  
 Mục tiêu của bài là làm quen với cách đọc ảnh, hiển thị ảnh và thực hiện một số phép biến đổi ảnh đơn giản.
