@@ -49,24 +49,13 @@ Notebook chính thực hiện bài Lab 08.
 
 ---
 
-### 2. `video_predetect.mp4`
-
-Video đầu vào dùng để detect.
 
 ---
 
-### 3. `MasoSV_HoTenSV_MaLHP_Lab08.mp4`
 
-Video sau khi nhận diện.
 
-**Bao gồm:**
 
-* Bounding box
-* Label đối tượng (person, car,...)
-
----
-
-### 4. `retinanet_resnet50_fpn_coco-eeacb38b.pth`
+### 2. `retinanet_resnet50_fpn_coco-eeacb38b.pth`
 
 Trọng số mô hình RetinaNet (pretrained COCO)
 
