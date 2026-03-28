@@ -5,8 +5,11 @@
 ---
 
 **Sinh viên thực hiện:** Nguyễn Hạn Vũ
+
 **MSSV:** 2374802010571
+
 **Môn học:** Thị giác máy tính
+
 **Giảng viên:** Thầy Đỗ Hữu Quân
 
 ---
@@ -46,9 +49,6 @@ Notebook chính thực hiện bài Lab 08.
 * Load mô hình RetinaNet
 * Nhận diện đối tượng trong video
 * Xuất video kết quả
-
----
-
 
 ---
 
@@ -147,4 +147,6 @@ Qua bài lab, sinh viên:
 * Phân tích hành vi
 
 ---
+dạ do vid sau khi detect nó lớn hơn 25mb nên em úp lên drive để nộp ạ. 
+https://drive.google.com/file/d/19ZqS2mufBsaYakv-ptRN-lRXImB5G2Zg/view?usp=sharing
 
