@@ -39,7 +39,7 @@ Bài lab sử dụng thư viện **ImageAI** kết hợp với mô hình học s
 
 ## Danh sách file
 
-### 1. `2374802010571_NguyenHanVu_MaLHP_Lab08.ipynb`
+### 1. `2374802010571_NguyenHanVu_Lab08.ipynb`
 
 Notebook chính thực hiện bài Lab 08.
 
